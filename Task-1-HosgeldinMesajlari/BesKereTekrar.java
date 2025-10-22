@@ -7,4 +7,3 @@ public class beskeretekrar{
         System.out.println("Java'ya hoş geldiniz");
     }
 }
-
