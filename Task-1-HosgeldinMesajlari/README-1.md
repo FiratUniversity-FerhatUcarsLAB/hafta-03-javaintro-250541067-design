@@ -1,4 +1,5 @@
-Feleknaz Sanli 
-240541039
-javanın temellerini öğrendim.Üçüncü haftanın birinci kısmını tamamladım.
+Avşin Pelin Bilgiç
+250541067
+Bu ödev sayesinde Java'nın temel sözdizimini kullanmayı öğrendim.
+
 
