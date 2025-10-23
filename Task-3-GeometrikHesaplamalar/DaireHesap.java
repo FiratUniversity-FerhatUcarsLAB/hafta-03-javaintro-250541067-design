@@ -1,16 +1,14 @@
-public class Dikdortgen {
-    public static void main(String[] args) {
-        double en = 4.5;
-        double boy = 7.9;
+public class daire {
+    public static void main (String[]args){
+        double r= 5.5;
+        double pi=3.14159;
+        double cevre= r*pi*2 ;
+        double alan=pi*r*r ;
+        System.out.println("yarıcap" + r) ;
+        System.out.println("cevre"+ cevre) ;
+        System.out.println("alan" + alan) ; 
 
-        // Alan = en * boy
-        double alan = en * boy;
-
-        // Çevre = 2 * (en + boy)
-        double cevre = 2 * (en + boy);
-
-        System.out.println("Dikdörtgenin alanı: " + alan);
-        System.out.println("Dikdörtgenin çevresi: " + cevre);
     }
+    
 }
 
